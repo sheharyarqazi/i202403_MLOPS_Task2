@@ -16,5 +16,3 @@ class StudentsInMLOps:
         return self.class_name
     
 
-hehe=StudentsInMLOps()
-print(hehe.getClassName())
